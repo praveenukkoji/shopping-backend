@@ -1,0 +1,7 @@
+{
+    "env": {
+        "dbuser": "premukkoji",
+        "dbpass": "MacB00k",
+        "JWT_KEY": "privatekey"
+    }
+}
